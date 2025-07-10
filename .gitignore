@@ -1,3 +1,5 @@
 AllNaomiData/
 niigz-data/
-nnunet/
+.venv/*
+AP2024/models
+AP2024/test/
